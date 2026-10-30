@@ -1,20 +1,20 @@
 # Meus projetos em excel 
 
-Planilhas que desenvolvi junto a Formação Análise de Dados com Excel e IA, todos com dados fictícios.
+Planilhas que desenvolvi durante a Formação Análise de Dados com Excel e IA. Todos os dados são fictícios.
 
-📍 Projetos
+##📍 Projetos
 
-1️⃣ Organizador de imoposto de renda.
-Arquivo:** organizador_ir.xlsx
+###1️⃣ Organizador de Imposto de Renda
+**Arquivo:** organizador_ir.xlsx
 
-Objetivo: organizaçao de rendimentos e despesas ao longo do ano. 
-Recursos usados: formulas, listas suspensas, criaçao de tabelas.
+Objetivo: organização de rendimentos e despesas ao longo do ano. 
+Recursos usados: fórmulas, listas suspensas, criação de tabelas.
 
-2️⃣ Controle de investimento
-Arquivo:** projeto_investimento.xlsx
+###2️⃣ Controle de Investimento
+**Arquivo:** projeto_investimento.xlsx
 
-Objetivo: simulacao de investimento com aportes mensais e calculo de juros.
-Recursos usados: formulas financerias, listas suspensas, criaçao de tabelas, grafico.
+**Objetivo:** simulação de investimento com aportes mensais e cálculo de juros.
+**Recursos usados:** fórmulas financerias, listas suspensas, criação de tabelas, gráfico.
 
-📍 Ferramentas
+##📍 Ferramentas
 Microsoft Excel
