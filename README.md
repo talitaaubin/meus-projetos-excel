@@ -17,9 +17,10 @@ Recursos usados: fórmulas, listas suspensas, criação de tabelas.
 **Recursos usados:** fórmulas financerias, listas suspensas, criação de tabelas, gráfico.
 
 ### 3️⃣ Dashboard de Vendas do XBOX
-Arquivo: dashboard_xbox.xlsx
-Objetivo: analisar as assinaturas do Xbox em 2024 e acompanhar receita por plano, tipo de assinatura e adicionais (EA Play e Minecraft).
-Recursos usados: tabela do Excel, tabelas dinâmicas, gráficos, segmentações e dashboard com identidade visual do Xbox.
+**Arquivo:** dashboard_xbox.xlsx
+
+**Objetivo:** analisar as assinaturas do Xbox em 2024 e acompanhar receita por plano, tipo de assinatura e adicionais (EA Play e Minecraft).
+**Recursos usados:** tabela do Excel, tabelas dinâmicas, gráficos, segmentações e dashboard com identidade visual do Xbox.
 
 ## 📍 Ferramentas
 Microsoft Excel
